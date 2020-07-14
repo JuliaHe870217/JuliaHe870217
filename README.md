@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Julia. Welcome to my portfolio 👋
 
 <!--
 **JuliaHe870217/JuliaHe870217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
